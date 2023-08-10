@@ -1,0 +1,77 @@
+
+
+#hero {
+  background: url("a0.jpeg") top center;
+  background-size: cover;
+  position: relative;
+  margin-top: 25px;
+  width: 1520px;
+  height: 800px;
+  }
+
+
+.nav1 img{
+  height: 400px;
+  width: 400px;
+}
+#hero1 {
+  width: 100%;
+  height: 800px;
+  background: url("a1.jpeg") top center;
+  background-size: cover;
+  position: relative;
+  margin-top: 25px;
+ }
+ .our-mission {
+    padding: 0 0 70px 0;
+}
+.pd-0 {
+    padding: 0;
+}
+
+.our-vision{
+    background:#7F7045;
+        padding: 46px;
+}
+.our-img img {
+    width: 100%;
+    height: 100%;
+    
+
+}
+.our-vision h3 {
+    color: #FFF;
+    font-size: 29px;
+    font-family: 'Jost';
+}
+.our-vision p {
+    color: #FFF;
+    font-size: 16px;
+    font-family: 'Jost';
+    font-weight: 400;
+    margin-top: -10px;
+}
+#hero2 {
+  background: url("c2.jpeg") top center;
+  background-size: cover;
+  position: relative;
+  margin-top: 25px;
+  width: 1520px;
+  height: 800px;
+  }
+#hero3 {
+  background: url("t1.jpeg") top center;
+  background-size: cover;
+  position: relative;
+  margin-top: 25px;
+  width: 1520px;
+  height: 800px;
+  }
+  #hero4 {
+  background: url("h4.jpeg") top center;
+  background-size: cover;
+  position: relative;
+  margin-top: 25px;
+  width: 1520px;
+  height: 800px;
+  }
